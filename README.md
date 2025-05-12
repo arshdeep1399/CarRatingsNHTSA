@@ -3,7 +3,7 @@ The NHTSA's New Car Assessment Program (NCAP) evaluates vehicle safety through r
 
 
 # About the Dataset
-<img width="433" alt="image" src="https://github.com/user-attachments/assets/87b83afe-c5c4-4146-b56d-d5f6e7d420f1" />
+<img width="433" alt="link to Dataset" src="https://github.com/user-attachments/assets/87b83afe-c5c4-4146-b56d-d5f6e7d420f1" />
 
 
 # Goal of the Project
